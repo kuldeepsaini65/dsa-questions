@@ -1,0 +1,4 @@
+pelendrome number
+armstrong number
+remove white space
+temperature 
